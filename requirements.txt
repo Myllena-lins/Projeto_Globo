@@ -1,0 +1,7 @@
+os
+subprocess
+pymsgbox
+dotenv
+pathlib
+json
+ffmpeg-python
